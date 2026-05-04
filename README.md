@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kritikat07/Leetcode-solution/tree/master/0069-sqrtx) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/kritikat07/Leetcode-solution/tree/master/0025-reverse-nodes-in-k-group) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/kritikat07/Leetcode-solution/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
