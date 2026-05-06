@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/kritikat07/Leetcode-solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kritikat07/Leetcode-solution/tree/master/0040-combination-sum-ii) |
 | [0059-spiral-matrix-ii](https://github.com/kritikat07/Leetcode-solution/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/kritikat07/Leetcode-solution/tree/master/0064-minimum-path-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -36,8 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/kritikat07/Leetcode-solution/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/kritikat07/Leetcode-solution/tree/master/0064-minimum-path-sum) |
 ## Simulation
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/kritikat07/Leetcode-solution/tree/master/0059-spiral-matrix-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/kritikat07/Leetcode-solution/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
