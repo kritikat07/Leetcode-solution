@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/kritikat07/Leetcode-solution/tree/master/0040-combination-sum-ii) |
 | [0059-spiral-matrix-ii](https://github.com/kritikat07/Leetcode-solution/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/kritikat07/Leetcode-solution/tree/master/0064-minimum-path-sum) |
+| [0088-merge-sorted-array](https://github.com/kritikat07/Leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/kritikat07/Leetcode-solution/tree/master/0090-subsets-ii) |
 ## Backtracking
 |  |
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/kritikat07/Leetcode-solution/tree/master/0090-subsets-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/kritikat07/Leetcode-solution/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/kritikat07/Leetcode-solution/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
