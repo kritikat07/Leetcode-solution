@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/kritikat07/Leetcode-solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kritikat07/Leetcode-solution/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/kritikat07/Leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/kritikat07/Leetcode-solution/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/kritikat07/Leetcode-solution/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/kritikat07/Leetcode-solution/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/kritikat07/Leetcode-solution/tree/master/0073-set-matrix-zeroes) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kritikat07/Leetcode-solution/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/kritikat07/Leetcode-solution/tree/master/0069-sqrtx) |
 ## Linked List
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kritikat07/Leetcode-solution/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/kritikat07/Leetcode-solution/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/kritikat07/Leetcode-solution/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/kritikat07/Leetcode-solution/tree/master/0073-set-matrix-zeroes) |
