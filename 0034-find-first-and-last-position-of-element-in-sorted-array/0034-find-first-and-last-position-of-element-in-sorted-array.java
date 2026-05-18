@@ -8,7 +8,6 @@ class Solution {
           if(nums[i]==target && count==0){
             first=i;
             count++;
-
           }
           else if(nums[i]==target && count!=0){
             last=i;
