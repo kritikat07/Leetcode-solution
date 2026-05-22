@@ -5,8 +5,7 @@ class Solution {
         List<List<Integer>> ans=new ArrayList<>();
         List<Integer> list=new ArrayList<>();
         check(0,target,  ans, list, n,candidates);
-        return ans;
-        
+        return ans;    
     }
     private void check(int ind,int target,List<List<Integer>> ans,List<Integer> list,int n,int []arr){
         if(target<0) return;
