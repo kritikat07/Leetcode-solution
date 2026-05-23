@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/kritikat07/Leetcode-solution/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/kritikat07/Leetcode-solution/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/kritikat07/Leetcode-solution/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/kritikat07/Leetcode-solution/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kritikat07/Leetcode-solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/kritikat07/Leetcode-solution/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/kritikat07/Leetcode-solution/tree/master/0088-merge-sorted-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/kritikat07/Leetcode-solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kritikat07/Leetcode-solution/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/kritikat07/Leetcode-solution/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/kritikat07/Leetcode-solution/tree/master/0090-subsets-ii) |
 ## Binary Search
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/kritikat07/Leetcode-solution/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/kritikat07/Leetcode-solution/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/kritikat07/Leetcode-solution/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/kritikat07/Leetcode-solution/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/kritikat07/Leetcode-solution/tree/master/0085-maximal-rectangle) |
 ## Simulation
 |  |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kritikat07/Leetcode-solution/tree/master/0014-longest-common-prefix) |
+| [0079-word-search](https://github.com/kritikat07/Leetcode-solution/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/kritikat07/Leetcode-solution/tree/master/0179-largest-number) |
 ## Trie
 |  |
@@ -103,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/kritikat07/Leetcode-solution/tree/master/0179-largest-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/kritikat07/Leetcode-solution/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
