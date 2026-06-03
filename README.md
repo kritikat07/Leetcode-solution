@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/kritikat07/Leetcode-solution/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/kritikat07/Leetcode-solution/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/kritikat07/Leetcode-solution/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/kritikat07/Leetcode-solution/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/kritikat07/Leetcode-solution/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kritikat07/Leetcode-solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/kritikat07/Leetcode-solution/tree/master/0085-maximal-rectangle) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/kritikat07/Leetcode-solution/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kritikat07/Leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/kritikat07/Leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/kritikat07/Leetcode-solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kritikat07/Leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0295-find-median-from-data-stream](https://github.com/kritikat07/Leetcode-solution/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/kritikat07/Leetcode-solution/tree/master/0455-assign-cookies) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/kritikat07/Leetcode-solution/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/kritikat07/Leetcode-solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kritikat07/Leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/kritikat07/Leetcode-solution/tree/master/0179-largest-number) |
 | [0295-find-median-from-data-stream](https://github.com/kritikat07/Leetcode-solution/tree/master/0295-find-median-from-data-stream) |
