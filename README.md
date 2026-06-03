@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/kritikat07/Leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0179-largest-number](https://github.com/kritikat07/Leetcode-solution/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/kritikat07/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/kritikat07/Leetcode-solution/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/kritikat07/Leetcode-solution/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/kritikat07/Leetcode-solution/tree/master/0846-hand-of-straights) |
 ## Backtracking
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kritikat07/Leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/kritikat07/Leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0295-find-median-from-data-stream](https://github.com/kritikat07/Leetcode-solution/tree/master/0295-find-median-from-data-stream) |
+| [0455-assign-cookies](https://github.com/kritikat07/Leetcode-solution/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/kritikat07/Leetcode-solution/tree/master/0179-largest-number) |
 | [0295-find-median-from-data-stream](https://github.com/kritikat07/Leetcode-solution/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/kritikat07/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/kritikat07/Leetcode-solution/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/kritikat07/Leetcode-solution/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/kritikat07/Leetcode-solution/tree/master/0846-hand-of-straights) |
 ## Stack
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/kritikat07/Leetcode-solution/tree/master/0179-largest-number) |
+| [0455-assign-cookies](https://github.com/kritikat07/Leetcode-solution/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/kritikat07/Leetcode-solution/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/kritikat07/Leetcode-solution/tree/master/0846-hand-of-straights) |
 ## Depth-First Search
