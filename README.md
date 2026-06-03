@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/kritikat07/Leetcode-solution/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/kritikat07/Leetcode-solution/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/kritikat07/Leetcode-solution/tree/master/0118-pascals-triangle) |
+| [0678-valid-parenthesis-string](https://github.com/kritikat07/Leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kritikat07/Leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/kritikat07/Leetcode-solution/tree/master/0085-maximal-rectangle) |
+| [0678-valid-parenthesis-string](https://github.com/kritikat07/Leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kritikat07/Leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/kritikat07/Leetcode-solution/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/kritikat07/Leetcode-solution/tree/master/0179-largest-number) |
+| [0678-valid-parenthesis-string](https://github.com/kritikat07/Leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 ## Trie
 |  |
 | ------- |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/kritikat07/Leetcode-solution/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/kritikat07/Leetcode-solution/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/kritikat07/Leetcode-solution/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/kritikat07/Leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/kritikat07/Leetcode-solution/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/kritikat07/Leetcode-solution/tree/master/0860-lemonade-change) |
 ## Depth-First Search
