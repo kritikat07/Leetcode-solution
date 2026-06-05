@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/kritikat07/Leetcode-solution/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/kritikat07/Leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/kritikat07/Leetcode-solution/tree/master/0135-candy) |
+| [0169-majority-element](https://github.com/kritikat07/Leetcode-solution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/kritikat07/Leetcode-solution/tree/master/0179-largest-number) |
 | [0287-find-the-duplicate-number](https://github.com/kritikat07/Leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/kritikat07/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/kritikat07/Leetcode-solution/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/kritikat07/Leetcode-solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kritikat07/Leetcode-solution/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/kritikat07/Leetcode-solution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/kritikat07/Leetcode-solution/tree/master/0179-largest-number) |
 | [0295-find-median-from-data-stream](https://github.com/kritikat07/Leetcode-solution/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/kritikat07/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/kritikat07/Leetcode-solution/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/kritikat07/Leetcode-solution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/kritikat07/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/kritikat07/Leetcode-solution/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/kritikat07/Leetcode-solution/tree/master/0846-hand-of-straights) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kritikat07/Leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/kritikat07/Leetcode-solution/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/kritikat07/Leetcode-solution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/kritikat07/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kritikat07/Leetcode-solution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/kritikat07/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/kritikat07/Leetcode-solution/tree/master/0621-task-scheduler) |
 ## Tree
