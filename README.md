@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kritikat07/Leetcode-solution/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/kritikat07/Leetcode-solution/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/kritikat07/Leetcode-solution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kritikat07/Leetcode-solution/tree/master/0069-sqrtx) |
 ## Linked List
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/kritikat07/Leetcode-solution/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/kritikat07/Leetcode-solution/tree/master/0050-powx-n) |
 ## Matrix
 |  |
 | ------- |
