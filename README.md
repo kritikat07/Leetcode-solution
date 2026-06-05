@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/kritikat07/Leetcode-solution/tree/master/0179-largest-number) |
 | [0287-find-the-duplicate-number](https://github.com/kritikat07/Leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/kritikat07/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/kritikat07/Leetcode-solution/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kritikat07/Leetcode-solution/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/kritikat07/Leetcode-solution/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/kritikat07/Leetcode-solution/tree/master/0846-hand-of-straights) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/kritikat07/Leetcode-solution/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/kritikat07/Leetcode-solution/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/kritikat07/Leetcode-solution/tree/master/0118-pascals-triangle) |
+| [0435-non-overlapping-intervals](https://github.com/kritikat07/Leetcode-solution/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/kritikat07/Leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 ## Bit Manipulation
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/kritikat07/Leetcode-solution/tree/master/0179-largest-number) |
 | [0295-find-median-from-data-stream](https://github.com/kritikat07/Leetcode-solution/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/kritikat07/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/kritikat07/Leetcode-solution/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kritikat07/Leetcode-solution/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/kritikat07/Leetcode-solution/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/kritikat07/Leetcode-solution/tree/master/0846-hand-of-straights) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/kritikat07/Leetcode-solution/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/kritikat07/Leetcode-solution/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/kritikat07/Leetcode-solution/tree/master/0179-largest-number) |
+| [0435-non-overlapping-intervals](https://github.com/kritikat07/Leetcode-solution/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kritikat07/Leetcode-solution/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/kritikat07/Leetcode-solution/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/kritikat07/Leetcode-solution/tree/master/0678-valid-parenthesis-string) |
