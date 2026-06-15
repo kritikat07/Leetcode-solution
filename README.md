@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/kritikat07/Leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kritikat07/Leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kritikat07/Leetcode-solution/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kritikat07/Leetcode-solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/kritikat07/Leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kritikat07/Leetcode-solution/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/kritikat07/Leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kritikat07/Leetcode-solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kritikat07/Leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Design
 |  |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/kritikat07/Leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kritikat07/Leetcode-solution/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/kritikat07/Leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kritikat07/Leetcode-solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kritikat07/Leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
