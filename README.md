@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kritikat07/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/kritikat07/Leetcode-solution/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kritikat07/Leetcode-solution/tree/master/0455-assign-cookies) |
+| [0560-subarray-sum-equals-k](https://github.com/kritikat07/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/kritikat07/Leetcode-solution/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/kritikat07/Leetcode-solution/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/kritikat07/Leetcode-solution/tree/master/0860-lemonade-change) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kritikat07/Leetcode-solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/kritikat07/Leetcode-solution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/kritikat07/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/kritikat07/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/kritikat07/Leetcode-solution/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kritikat07/Leetcode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0846-hand-of-straights](https://github.com/kritikat07/Leetcode-solution/tree/master/0846-hand-of-straights) |
@@ -358,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/kritikat07/Leetcode-solution/tree/master/0547-number-of-provinces) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/kritikat07/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
