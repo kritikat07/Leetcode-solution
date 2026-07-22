@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kritikat07/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/kritikat07/Leetcode-solution/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kritikat07/Leetcode-solution/tree/master/0455-assign-cookies) |
+| [0542-01-matrix](https://github.com/kritikat07/Leetcode-solution/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/kritikat07/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/kritikat07/Leetcode-solution/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/kritikat07/Leetcode-solution/tree/master/0733-flood-fill) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/kritikat07/Leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/kritikat07/Leetcode-solution/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/kritikat07/Leetcode-solution/tree/master/0085-maximal-rectangle) |
+| [0542-01-matrix](https://github.com/kritikat07/Leetcode-solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/kritikat07/Leetcode-solution/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/kritikat07/Leetcode-solution/tree/master/0994-rotting-oranges) |
 ## Simulation
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/kritikat07/Leetcode-solution/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/kritikat07/Leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0435-non-overlapping-intervals](https://github.com/kritikat07/Leetcode-solution/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/kritikat07/Leetcode-solution/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/kritikat07/Leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 ## Bit Manipulation
 |  |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/kritikat07/Leetcode-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/kritikat07/Leetcode-solution/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/kritikat07/Leetcode-solution/tree/master/0207-course-schedule) |
+| [0542-01-matrix](https://github.com/kritikat07/Leetcode-solution/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/kritikat07/Leetcode-solution/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kritikat07/Leetcode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/kritikat07/Leetcode-solution/tree/master/0733-flood-fill) |
