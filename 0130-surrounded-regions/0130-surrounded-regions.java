@@ -22,7 +22,7 @@ class Solution {
         int[][] vis = new int[n][m];
         int[] delRow = {-1, 0, 1, 0};
         int[] delCol = {0, 1, 0, -1};
-        // Traverse first and last row
+        //  first and last row
         for (int j = 0; j < m; j++) {
             if (vis[0][j] == 0 && board[0][j] == 'O') {
                 dfs(0, j, vis, board, delRow, delCol);
@@ -31,7 +31,7 @@ class Solution {
                 dfs(n - 1, j, vis, board, delRow, delCol);
             }
         }
-        // Traverse first and last column
+        //  first and last column
         for (int i = 0; i < n; i++) {
 
             if (vis[i][0] == 0 && board[i][0] == 'O') {
