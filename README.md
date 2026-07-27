@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/kritikat07/Leetcode-solution/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/kritikat07/Leetcode-solution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/kritikat07/Leetcode-solution/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/kritikat07/Leetcode-solution/tree/master/0200-number-of-islands) |
 | [0287-find-the-duplicate-number](https://github.com/kritikat07/Leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/kritikat07/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/kritikat07/Leetcode-solution/tree/master/0435-non-overlapping-intervals) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/kritikat07/Leetcode-solution/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/kritikat07/Leetcode-solution/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/kritikat07/Leetcode-solution/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/kritikat07/Leetcode-solution/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/kritikat07/Leetcode-solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/kritikat07/Leetcode-solution/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/kritikat07/Leetcode-solution/tree/master/0994-rotting-oranges) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/kritikat07/Leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kritikat07/Leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kritikat07/Leetcode-solution/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/kritikat07/Leetcode-solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kritikat07/Leetcode-solution/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kritikat07/Leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kritikat07/Leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/kritikat07/Leetcode-solution/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/kritikat07/Leetcode-solution/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/kritikat07/Leetcode-solution/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/kritikat07/Leetcode-solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kritikat07/Leetcode-solution/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/kritikat07/Leetcode-solution/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/kritikat07/Leetcode-solution/tree/master/0547-number-of-provinces) |
@@ -391,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/kritikat07/Leetcode-solution/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/kritikat07/Leetcode-solution/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/kritikat07/Leetcode-solution/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/kritikat07/Leetcode-solution/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
