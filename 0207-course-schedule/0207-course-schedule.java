@@ -1,37 +1,32 @@
 class Solution {
-    public boolean canFinish(int n, int[][] prerequisites) {
-        List<Integer>[] adj = new List[n];
-        int[] indegree = new int[n];
-        List<Integer> ans = new ArrayList<>();
-
-        for (int[] pair : prerequisites) {
-            int course = pair[0];
-            int prerequisite = pair[1];
-            if (adj[prerequisite] == null) {
-                adj[prerequisite] = new ArrayList<>();
-            }
-            adj[prerequisite].add(course);
-            indegree[course]++;
-        }
-        Queue<Integer> queue = new LinkedList<>();
-        for (int i = 0; i < n; i++) {
-            if (indegree[i] == 0) {
-                queue.offer(i);
+      public boolean dfs(int node, List<List<Integer>> adj, int[] vis) {
+        vis[node] = 1; 
+        for (int it : adj.get(node)) {
+            if (vis[it] == 0) {
+                if (!dfs(it, adj, vis))
+                    return false;
+            } else if (vis[it] == 1) {
+                return false; 
             }
         }
-        while (!queue.isEmpty()) {
-            int current = queue.poll();
-            ans.add(current);
-
-            if (adj[current] != null) {
-                for (int next : adj[current]) {
-                    indegree[next]--;
-                    if (indegree[next] == 0) {
-                        queue.offer(next);
-                    }
-                }
+        vis[node] = 2; 
+        return true;
+    }
+    public boolean canFinish(int numCourses, int[][] prerequisites) {
+         List<List<Integer>> adj = new ArrayList<>();
+        for (int i = 0; i < numCourses; i++) {
+            adj.add(new ArrayList<>());
+        }
+        for (int[] pre : prerequisites) {
+            adj.get(pre[1]).add(pre[0]);
+        }
+        int[] vis = new int[numCourses];
+        for (int i = 0; i < numCourses; i++) {
+            if (vis[i] == 0) {
+                if (!dfs(i, adj, vis))
+                    return false;
             }
         }
-        return ans.size() == n;
+        return true;
     }
 }
