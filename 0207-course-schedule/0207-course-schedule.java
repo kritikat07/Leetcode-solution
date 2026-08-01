@@ -13,14 +13,12 @@ class Solution {
             adj[prerequisite].add(course);
             indegree[course]++;
         }
-
         Queue<Integer> queue = new LinkedList<>();
         for (int i = 0; i < n; i++) {
             if (indegree[i] == 0) {
                 queue.offer(i);
             }
         }
-
         while (!queue.isEmpty()) {
             int current = queue.poll();
             ans.add(current);
@@ -34,7 +32,6 @@ class Solution {
                 }
             }
         }
-
         return ans.size() == n;
     }
 }
