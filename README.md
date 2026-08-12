@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kritikat07/Leetcode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/kritikat07/Leetcode-solution/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kritikat07/Leetcode-solution/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/kritikat07/Leetcode-solution/tree/master/1631-path-with-minimum-effort) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kritikat07/Leetcode-solution/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Backtracking
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kritikat07/Leetcode-solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/kritikat07/Leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/kritikat07/Leetcode-solution/tree/master/0287-find-the-duplicate-number) |
+| [1631-path-with-minimum-effort](https://github.com/kritikat07/Leetcode-solution/tree/master/1631-path-with-minimum-effort) |
 ## Math
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/kritikat07/Leetcode-solution/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kritikat07/Leetcode-solution/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kritikat07/Leetcode-solution/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/kritikat07/Leetcode-solution/tree/master/1631-path-with-minimum-effort) |
 ## Simulation
 |  |
 | ------- |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/kritikat07/Leetcode-solution/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/kritikat07/Leetcode-solution/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/kritikat07/Leetcode-solution/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/kritikat07/Leetcode-solution/tree/master/1631-path-with-minimum-effort) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -292,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kritikat07/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/kritikat07/Leetcode-solution/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kritikat07/Leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1631-path-with-minimum-effort](https://github.com/kritikat07/Leetcode-solution/tree/master/1631-path-with-minimum-effort) |
 ## Merge Sort
 |  |
 | ------- |
@@ -409,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/kritikat07/Leetcode-solution/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kritikat07/Leetcode-solution/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kritikat07/Leetcode-solution/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/kritikat07/Leetcode-solution/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
 | ------- |
@@ -417,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/kritikat07/Leetcode-solution/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/kritikat07/Leetcode-solution/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/kritikat07/Leetcode-solution/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/kritikat07/Leetcode-solution/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -447,4 +454,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/kritikat07/Leetcode-solution/tree/master/0802-find-eventual-safe-states) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/kritikat07/Leetcode-solution/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
