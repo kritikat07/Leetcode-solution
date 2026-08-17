@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/kritikat07/Leetcode-solution/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/kritikat07/Leetcode-solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kritikat07/Leetcode-solution/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/kritikat07/Leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/kritikat07/Leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/kritikat07/Leetcode-solution/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/kritikat07/Leetcode-solution/tree/master/0455-assign-cookies) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/kritikat07/Leetcode-solution/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/kritikat07/Leetcode-solution/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/kritikat07/Leetcode-solution/tree/master/0127-word-ladder) |
+| [0151-reverse-words-in-a-string](https://github.com/kritikat07/Leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/kritikat07/Leetcode-solution/tree/master/0179-largest-number) |
 | [0678-valid-parenthesis-string](https://github.com/kritikat07/Leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/kritikat07/Leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
