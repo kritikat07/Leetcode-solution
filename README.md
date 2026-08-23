@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/kritikat07/Leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kritikat07/Leetcode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/kritikat07/Leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kritikat07/Leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/kritikat07/Leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/kritikat07/Leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/kritikat07/Leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kritikat07/Leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1773-count-items-matching-a-rule](https://github.com/kritikat07/Leetcode-solution/tree/master/1773-count-items-matching-a-rule) |
 ## Trie
 |  |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/kritikat07/Leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kritikat07/Leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
