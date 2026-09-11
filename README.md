@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/kritikat07/Leetcode-solution/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/kritikat07/Leetcode-solution/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/kritikat07/Leetcode-solution/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/kritikat07/Leetcode-solution/tree/master/0213-house-robber-ii) |
 | [0287-find-the-duplicate-number](https://github.com/kritikat07/Leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/kritikat07/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/kritikat07/Leetcode-solution/tree/master/0435-non-overlapping-intervals) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/kritikat07/Leetcode-solution/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/kritikat07/Leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/kritikat07/Leetcode-solution/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/kritikat07/Leetcode-solution/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/kritikat07/Leetcode-solution/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/kritikat07/Leetcode-solution/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/kritikat07/Leetcode-solution/tree/master/0678-valid-parenthesis-string) |
