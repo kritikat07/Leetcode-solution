@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kritikat07/Leetcode-solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/kritikat07/Leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/kritikat07/Leetcode-solution/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kritikat07/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/kritikat07/Leetcode-solution/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/kritikat07/Leetcode-solution/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/kritikat07/Leetcode-solution/tree/master/0169-majority-element) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/kritikat07/Leetcode-solution/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/kritikat07/Leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/kritikat07/Leetcode-solution/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kritikat07/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/kritikat07/Leetcode-solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kritikat07/Leetcode-solution/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/kritikat07/Leetcode-solution/tree/master/0435-non-overlapping-intervals) |
