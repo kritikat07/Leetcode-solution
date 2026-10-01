@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/kritikat07/Leetcode-solution/tree/master/1631-path-with-minimum-effort) |
 | [1773-count-items-matching-a-rule](https://github.com/kritikat07/Leetcode-solution/tree/master/1773-count-items-matching-a-rule) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kritikat07/Leetcode-solution/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/kritikat07/Leetcode-solution/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Backtracking
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/kritikat07/Leetcode-solution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kritikat07/Leetcode-solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kritikat07/Leetcode-solution/tree/master/0070-climbing-stairs) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/kritikat07/Leetcode-solution/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3870-count-commas-in-range](https://github.com/kritikat07/Leetcode-solution/tree/master/3870-count-commas-in-range) |
 ## Linked List
 |  |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/kritikat07/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/kritikat07/Leetcode-solution/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Topological Sort
 |  |
 | ------- |
