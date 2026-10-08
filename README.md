@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/kritikat07/Leetcode-solution/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kritikat07/Leetcode-solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/kritikat07/Leetcode-solution/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/kritikat07/Leetcode-solution/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/kritikat07/Leetcode-solution/tree/master/1631-path-with-minimum-effort) |
 | [1773-count-items-matching-a-rule](https://github.com/kritikat07/Leetcode-solution/tree/master/1773-count-items-matching-a-rule) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kritikat07/Leetcode-solution/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/kritikat07/Leetcode-solution/tree/master/0983-minimum-cost-for-tickets) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/kritikat07/Leetcode-solution/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kritikat07/Leetcode-solution/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/kritikat07/Leetcode-solution/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/kritikat07/Leetcode-solution/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Bit Manipulation
 |  |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/kritikat07/Leetcode-solution/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/kritikat07/Leetcode-solution/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/kritikat07/Leetcode-solution/tree/master/0846-hand-of-straights) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/kritikat07/Leetcode-solution/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Stack
 |  |
 | ------- |
