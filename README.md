@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/kritikat07/Leetcode-solution/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kritikat07/Leetcode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/kritikat07/Leetcode-solution/tree/master/1020-number-of-enclaves) |
+| [1048-longest-string-chain](https://github.com/kritikat07/Leetcode-solution/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kritikat07/Leetcode-solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/kritikat07/Leetcode-solution/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kritikat07/Leetcode-solution/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/kritikat07/Leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/kritikat07/Leetcode-solution/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/kritikat07/Leetcode-solution/tree/master/0983-minimum-cost-for-tickets) |
+| [1048-longest-string-chain](https://github.com/kritikat07/Leetcode-solution/tree/master/1048-longest-string-chain) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/kritikat07/Leetcode-solution/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kritikat07/Leetcode-solution/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kritikat07/Leetcode-solution/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/kritikat07/Leetcode-solution/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/kritikat07/Leetcode-solution/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kritikat07/Leetcode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1048-longest-string-chain](https://github.com/kritikat07/Leetcode-solution/tree/master/1048-longest-string-chain) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kritikat07/Leetcode-solution/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/kritikat07/Leetcode-solution/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/kritikat07/Leetcode-solution/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/kritikat07/Leetcode-solution/tree/master/0846-hand-of-straights) |
+| [1048-longest-string-chain](https://github.com/kritikat07/Leetcode-solution/tree/master/1048-longest-string-chain) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kritikat07/Leetcode-solution/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Stack
 |  |
@@ -293,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/kritikat07/Leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/kritikat07/Leetcode-solution/tree/master/0721-accounts-merge) |
 | [1021-remove-outermost-parentheses](https://github.com/kritikat07/Leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
+| [1048-longest-string-chain](https://github.com/kritikat07/Leetcode-solution/tree/master/1048-longest-string-chain) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kritikat07/Leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1773-count-items-matching-a-rule](https://github.com/kritikat07/Leetcode-solution/tree/master/1773-count-items-matching-a-rule) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/kritikat07/Leetcode-solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -320,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/kritikat07/Leetcode-solution/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/kritikat07/Leetcode-solution/tree/master/0846-hand-of-straights) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/kritikat07/Leetcode-solution/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1048-longest-string-chain](https://github.com/kritikat07/Leetcode-solution/tree/master/1048-longest-string-chain) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/kritikat07/Leetcode-solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Greedy
 |  |
