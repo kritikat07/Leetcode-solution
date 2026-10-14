@@ -18,7 +18,7 @@ class Solution {
                 }
             }
         }
-        int maxLen = 0;
+        int maxLen = 1;
         int ans = 0;
         for (int i = 0; i < n; i++) {
             if (dp[i] > maxLen) {
