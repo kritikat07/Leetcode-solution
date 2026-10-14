@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kritikat07/Leetcode-solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kritikat07/Leetcode-solution/tree/master/0070-climbing-stairs) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/kritikat07/Leetcode-solution/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/kritikat07/Leetcode-solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/kritikat07/Leetcode-solution/tree/master/3870-count-commas-in-range) |
 ## Linked List
 |  |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kritikat07/Leetcode-solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/kritikat07/Leetcode-solution/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/kritikat07/Leetcode-solution/tree/master/0860-lemonade-change) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/kritikat07/Leetcode-solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Depth-First Search
 |  |
 | ------- |
