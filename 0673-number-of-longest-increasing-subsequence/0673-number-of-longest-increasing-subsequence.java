@@ -18,10 +18,10 @@ class Solution {
                 }
             }
         }
-        int maxLen = 1;
+        int maxLen = 0;
         int ans = 0;
         for (int i = 0; i < n; i++) {
-            if (dp[i] > maxLen) {
+            if (dp[i] >maxLen) {
                 maxLen = dp[i];
                 ans = count[i];
             } 
