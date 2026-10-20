@@ -28,18 +28,14 @@ class Solution {
                 j--;
             }
         }
-
-        // Add remaining characters
         while (i > 0) {
             sb.append(str1.charAt(i - 1));
             i--;
         }
-
         while (j > 0) {
             sb.append(str2.charAt(j - 1));
             j--;
         }
-
         return sb.reverse().toString();
     }
 }
