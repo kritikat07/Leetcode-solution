@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/kritikat07/Leetcode-solution/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/kritikat07/Leetcode-solution/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/kritikat07/Leetcode-solution/tree/master/0213-house-robber-ii) |
+| [0283-move-zeroes](https://github.com/kritikat07/Leetcode-solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kritikat07/Leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/kritikat07/Leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/kritikat07/Leetcode-solution/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kritikat07/Leetcode-solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kritikat07/Leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/kritikat07/Leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/kritikat07/Leetcode-solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kritikat07/Leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/kritikat07/Leetcode-solution/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/kritikat07/Leetcode-solution/tree/master/0455-assign-cookies) |
